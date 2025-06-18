@@ -1,0 +1,22 @@
+#counter{
+    color: blue;
+    
+}
+
+body{
+    text-align: center;
+    
+}
+
+#increasebtn{
+    background-color: green;
+}
+
+#decreasebtn{
+    background-color: red;
+}
+
+#resetbtn{
+    background-color: pink;
+}
+
